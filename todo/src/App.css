@@ -1,0 +1,18 @@
+button{
+  background-color: gray;
+  color: white;
+  
+  width: 70px;
+  margin-left: 1px;
+   padding: 10px 81px;
+  border-radius: 70px;
+  text-align: center;
+}
+input{
+  width: 170px;
+  padding: 10px;
+}
+.del{
+  background-color: red;
+  
+}
